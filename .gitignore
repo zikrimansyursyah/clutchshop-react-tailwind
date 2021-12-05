@@ -77,3 +77,8 @@ typings/
 
 # build dir
 build
+
+# hosting
+.firebase
+.firebaserc
+firebase.json
